@@ -34,9 +34,12 @@
 - ⏰ Online [14:00-04:00][UTC+8](https://time.is/UTC+8)
 
 
-<img src="zero.jpg" align="right" width="380px"/>
 
 ### STATS
+
 [![wakatime](https://wakatime.com/badge/user/8d5a7ea2-68c7-4a7c-8f0e-695bb94c1813.svg)](https://wakatime.com/@8d5a7ea2-68c7-4a7c-8f0e-695bb94c1813)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unraous&layout=compact&theme=radical&card_width=450)
+
+<img src="zero.jpg" align="right" width="370px"/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unraous&layout=compact&theme=radical&card_width=450&card_height=200)
 ![Coding stats](https://github-readme-stats.vercel.app/api?username=unraous&show_icons=true&theme=radical&card_width=450)

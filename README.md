@@ -41,5 +41,5 @@
 
 <img src="zero.jpg" align="right" width="370px"/>
 
-![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=unraous&layout=compact&theme=radical&card_width=400&card_height=200)
-![Coding stats](https://github-readme-stats-one-bice.vercel.app/api?username=unraous&show_icons=true&theme=radical&card_width=400)
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=unraous&layout=compact&theme=radical&card_width=400&card_height=250)
+![Coding stats](https://github-readme-stats-one-bice.vercel.app/api?username=unraous&show_icons=true&theme=radical&card_width=450)

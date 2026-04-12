@@ -31,7 +31,7 @@
 ###  ABOUT 
 - 🚀 Continuously learning to become a full-stack developer.
 - 🎓 Major in Computer Science at BUPT.
-- ⏰ Online [14:00-04:00][UTC+8](https://time.is/UTC+8)
+- ⏰ Online [8:00-23:00][UTC+8](https://time.is/UTC+8)
 
 
 

@@ -27,13 +27,11 @@
   <a href="https://www.blender.org/" target="_blank"><img src="https://img.shields.io/badge/Blender-%23F5792A?style=flat-square&logo=blender&logoColor=white" alt="Blender"></a>
 </p>
 
+### ABOUT
 
-###  ABOUT 
 - 🚀 Continuously learning to become a full-stack developer.
 - 🎓 Major in Computer Science at BUPT.
 - ⏰ Online [8:00-23:00][UTC+8](https://time.is/UTC+8)
-
-
 
 ### STATS
 
@@ -42,4 +40,4 @@
 <img src="zero.jpg" align="right" width="370px"/>
 
 ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=unraous&layout=compact&theme=radical&card_width=400&card_height=250)
-![Coding stats](https://github-readme-stats-one-bice.vercel.app/api?username=unraous&show_icons=true&theme=radical&card_width=450)
+![Coding stats](https://github-stats-extended.vercel.app/api?username=unraous&show_icons=true&theme=radical&card_width=450)
